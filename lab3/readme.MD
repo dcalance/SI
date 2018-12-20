@@ -9,7 +9,7 @@
 3. Clone the repository because chrome won't let you download it.
 4. Start attacking site using perl slowloris.pl -dns https://utm.md/.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/dcalance/SI/blob/master/res/lab3.png)
 
 5. Understand that your ip was blocked because of previous attacks.
 6. Cry in a corner.
